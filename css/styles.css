@@ -1,0 +1,157 @@
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+h1 {
+  padding-top: 50px;
+  margin-bottom: 5px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #0c7b93;
+  line-height: 2;
+}
+h2 {
+  font-size: 2.5rem;
+  margin-top: 10px;
+  color: #0c7b93;
+  font-weight: normal;
+}
+h3 {
+  color: #00a8cc;
+}
+
+p {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+a {
+  color: #f1f3f4;
+}
+a:hover{
+  color: #0f4c81;
+}
+.top-container {
+  background-color: #e1f2fb;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.middle-container {
+margin: 50px auto;
+}
+
+.bottom-container {
+background-color: #3282b8;
+color: white;
+padding-bottom: 20px;
+padding-top: 30px;
+}
+.footer-link{
+  height: 35px;
+  width: 35px;
+  margin: auto 20px;
+  color: #0f4c81;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  top: 250px;
+  right: 400px;
+}
+
+.ambulance {
+  height: 85px;
+  width: 120px;
+  position: absolute;
+  bottom: 0;
+  left: 300px;
+}
+
+.hospital {
+  height: 250px;
+  width: 280px;
+}
+.doctor {
+  width: 20%;
+}
+.app {
+  height: 100px;
+  width: 95px;
+  position: absolute;
+  top: 290px;
+  right: 350px;
+}
+.productivity{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.language{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+.contact-me{
+  width: 40%;
+  margin: auto;
+  line-height: 2;
+}
+.btn {
+	background-color:#2eb6ff;
+	border-radius:28px;
+	border:1px solid #2eb6ff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.btn:hover {
+	background-color:#0075b0;
+  color:#ffffff;
+  border-color: #0075b0
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.reference{
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 5%;
+  margin:80px auto 80px;
+  color: #d3f4ff;
+}
+.copyright{
+  margin-top: 20px;
+  font-size: 0.8rem;
+}
+.icons{
+  font-size: 0.4rem;
+}
